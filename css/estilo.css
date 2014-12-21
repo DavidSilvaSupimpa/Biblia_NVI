@@ -1,0 +1,15 @@
+body { background: #333332; }
+h2 { color: #fff; text-align: center; }
+h4 { color: #119F85; text-align: center; }
+.cap-gn li { display: inline-table; margin: 10px; padding: 14px ; margin-bottom: 5px ; background: #119F85; }
+ul li a { color: #fff;  }
+ul li a:hover { color: #fff; text-decoration: none; }
+.cap li { display: block; padding: 14px ; margin-bottom: 5px ; background: #119F85; }
+.cap ul { text-align: center; font-size: 12pt; }
+
+.versiculos ol { color: #119F85; }
+.versiculos ol li { color: #fff; }
+
+@media screen and (max-width: 992px) {
+	.cap ul { margin-left: -28px; margin-right: 10px; }
+}
