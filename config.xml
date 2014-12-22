@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.phonegap.helloworld" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>Digital Inspector</name>
+    <name>Biblia NVI</name>
     <description>
-        Aplicativo para controle de Retrabalho.
+        Simples e Objetiva
     </description>
     <author email="david1909@bol.com.br">David da Silva</author>
     <content src="index.html" />
